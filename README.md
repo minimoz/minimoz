@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Arthur
+# Hi there 👋, I'm Arthur
 
 <!--
 **minimoz/minimoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+\
+🔭 Currently working on <a href="https://madskullz.io" target="_blank">MadSkullz</a> 💀
 
-🔭 Currently working on [MadSkullz](https://madskullz.io) 💀\
-💬 Ask me about NFTs, Blockchains and any web3 topics!\
-📫 How to reach me: [@arthur_grllrd](https://twitter.com/arthur_grllrd)
+💬 Ask me about NFTs, Blockchains and any web3 topics!
 
+📫 How to reach me: <a href="https://twitter.com/arthur_grllrd" target="_blank">@arthur_grllrd</a>
+\
+\
+\
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=minimoz&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
