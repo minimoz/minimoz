@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 \
-🔭 Currently working on <a href="https://madskullz.io" target="_blank">MadSkullz</a> 💀
+🔭 Currently working on [MadSkullz](https://madskullz.io) 💀
 
 💬 Ask me about NFTs, Blockchains and any web3 topics!
 
-📫 How to reach me: <a href="https://twitter.com/arthur_grllrd" target="_blank">@arthur_grllrd</a>
+📫 How to reach me: [@arthur_grllrd](https://twitter.com/arthur_grllrd)
 \
 \
 \
