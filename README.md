@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about iOS, mobile apps, websites, video-games, NFTs, Blockchains or any other tech stuff!
 
-📫 How to reach me: [arthur@avalonis.fr](mailto:arthur@avalonis.fr)
+📫 How to reach me: [contact@moz.ninja](mailto:contact@moz.ninja)
 \
 \
 \
