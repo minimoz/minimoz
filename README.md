@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 \
-🔭 Currently working on [MadSkullz](https://madskullz.io) 💀
+🔭 Currently working as a freelancer
 
-💬 Ask me about NFTs, Blockchains and any web3 topics!
+💬 Ask me about iOS, mobile apps, websites, video-games, NFTs, Blockchains or any other tech stuff!
 
-📫 How to reach me: [@arthur_grllrd](https://twitter.com/arthur_grllrd)
+📫 How to reach me: [arthur@avalonis.fr](mailto:arthur@avalonis.fr)
 \
 \
 \
