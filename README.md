@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 \
 🔭 Currently working as a freelancer
 
-💬 Ask me about iOS, mobile apps, websites, video-games, NFTs, Blockchains or any other tech stuff!
+💬 Ask me about mobile apps, websites, NFTs, Blockchains, automation, scrapping, iOS, video-games or any other tech stuff!
 
 📫 How to reach me: [contact@moz.ninja](mailto:contact@moz.ninja)
 \
